@@ -330,3 +330,36 @@ margin-bottom: 12px;
     width:100%;
     font-weight: bold;
 }
+
+.footer{
+
+    text-align: center;
+    padding: 60px 20px;
+}
+ 
+.foot-logo{
+    color: #4E47FF;
+    font-size: 62px;
+    font-weight:1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.foot-text{
+
+    font-size: 12px;
+    color: #818085;
+    margin:  0 auto 30px;
+}
+.foot-links a{
+
+color: #818085;
+text-decoration: none;
+font-size: 14px;
+margin: 0 15px;
+
+}
+
+
+
+
+
+
